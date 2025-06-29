@@ -1,2 +1,2 @@
-# C-Programming-2nd-Sem
-Contains C programming codes 
+# C Programming - 2nd Semester
+This repository contains basic C programs written for assignments.
